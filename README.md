@@ -121,13 +121,13 @@ streamlit run TAMapp.py
 ```
 ## Workflow Diagram
 
-![Workflow](images/Flowchart.png)
+![Workflow](Fake_News_Detection-main/images/Flowchart.png)
 
 ## User Interface
 
-![UI1](images/web1.jpeg)
+![UI1](Fake_News_Detection-main/images/web1.jpeg)
 
-![UI2](images/web2.jpeg)
+![UI2](Fake_News_Detection-main/images/web2.jpeg)
 
 ## User Interface
 The project includes a simple and interactive Streamlit interface where users can:
