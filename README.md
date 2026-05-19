@@ -25,6 +25,9 @@ The main objective of this project is to:
 - Provide users with an easy-to-use verification platform
 
 ## System Workflow
+## Workflow Diagram
+
+![Workflow](Fake_News_Detection-main/images/Flowchart.png)
 The complete workflow of the project includes:
 1. Collecting news datasets
 2. Cleaning and preprocessing text data
@@ -119,15 +122,6 @@ or
 ```bash
 streamlit run TAMapp.py
 ```
-## Workflow Diagram
-
-![Workflow](Fake_News_Detection-main/images/Flowchart.png)
-
-## User Interface
-
-![UI1](Fake_News_Detection-main/images/web1.jpeg)
-
-![UI2](Fake_News_Detection-main/images/web2.jpeg)
 
 ## User Interface
 The project includes a simple and interactive Streamlit interface where users can:
@@ -135,7 +129,11 @@ The project includes a simple and interactive Streamlit interface where users ca
 - Verify authenticity
 - Receive prediction results instantly
 
-Screenshots of the application interface are included in the `images` folder.
+## User Interface
+
+![UI1](Fake_News_Detection-main/images/web1.jpeg)
+
+![UI2](Fake_News_Detection-main/images/web2.jpeg)
 
 ## Future Scope
 The project can be further improved by adding:
