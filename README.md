@@ -104,23 +104,33 @@ git clone https://github.com/psdivyakumar/Fake-news-detection.git
 ```bash
 cd Fake-news-detection
 ```
+## check for python installation
+
+```bash
+python --version
+```
 
 ### Install Required Packages
 
 ```bash
 pip install -r requirements.txt
 ```
+## If streamlit error comes
+
+```bash
+pip install streamlit
+```
 
 ### Run the Application
 
 ```bash
-streamlit run ENGapp.py
+python -m streamlit run ENGapp.py
 ```
 
 or
 
 ```bash
-streamlit run TAMapp.py
+python -m streamlit run TAMapp.py
 ```
 
 ## User Interface
