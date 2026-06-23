@@ -1,4 +1,6 @@
 # Fake News Detection for Tamil and English News Articles
+LIVE DEMO 
+https://multilingual-fake-news-detection.streamlit.app/
 
 ## Overview
 This project is a multilingual fake news identification system designed to classify news articles written in Tamil and English as either genuine or fake. The application uses advanced Natural Language Processing (NLP) techniques along with Transformer-based deep learning models to improve prediction accuracy and analyze the reliability of news content.
